@@ -1,6 +1,6 @@
 # dice_once_more
 
-A new Flutter project.
+This is a prototype game, using dice as the main battle mechanic.
 
 ## Getting Started
 
